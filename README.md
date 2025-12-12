@@ -9,7 +9,7 @@
 <a href="https://instagram.com/sravana.np" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sravana.np" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sravana kumar n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sravana kumar n" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sravanakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sravanakumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sravanakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sravanakumar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sravanakumar_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sravanakumar_n" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sravana kumar n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sravana kumar n" height="30" width="40" /></a>
 </p>
 
